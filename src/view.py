@@ -38,3 +38,6 @@ if __name__ == '__main__':
 # https://qiita.com/sakusaku12/items/21083c73c8afa4f6c78d
 # pip freeze > requirements.txt
 # pip install -r requirements.txt
+
+# [Memo]git add .でLF will be replaced by CRLF the next time Git touches iが出まくった
+# https://normalblog.net/system/lf_replaced_crlf/
