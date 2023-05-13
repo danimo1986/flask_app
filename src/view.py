@@ -19,7 +19,6 @@ if __name__ == '__main__':
     app.run()
 
 # pip list memo
-#Package            Version
 #blinker            1.6.2
 #click              8.1.3
 #colorama           0.4.6
@@ -28,7 +27,7 @@ if __name__ == '__main__':
 #importlib-metadata 6.6.0
 #itsdangerous       2.1.2
 #Jinja2             3.1.2
-#MarkupSafe         2.1.23
+#MarkupSafe         2.1.2
 #pip                23.1.2
 #setuptools         58.1.0
 #Werkzeug           2.3.4
@@ -41,3 +40,6 @@ if __name__ == '__main__':
 
 # [Memo]git add .でLF will be replaced by CRLF the next time Git touches iが出まくった
 # https://normalblog.net/system/lf_replaced_crlf/
+
+# [Memo] github SSH public key
+# https://qiita.com/shizuma/items/2b2f873a0034839e47ce
